@@ -114,17 +114,9 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 
 ## 📊 GitHub Stats  
 
-[![View Stats](https://img.shields.io/badge/GitHub-View%20All%20Stats-blue?style=flat&logo=github)](#stats)
-
----
-
-<a name="stats"></a>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyamsundar-eng&theme=default" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shyamsundar-eng&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shyamsundar-eng&theme=default" />
-</p>
+[![View GitHub Stats](https://img.shields.io/badge/GitHub-View%20All%20Stats-blue?style=flat&logo=github)](
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyamsundar-eng&theme=default
+)
 
 
 
