@@ -115,12 +115,13 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyamsundar-eng&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyamsundar-eng&show_icons=true&theme=default&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamsundar-eng&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamsundar-eng&layout=compact&theme=default&cache_seconds=86400" />
 </p>
+
 
 ---
 
