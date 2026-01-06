@@ -1,23 +1,28 @@
-<h1 align="center">Hi 👋, I'm Shyamsundar Gitte</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Cloud Learner | Backend Developer</h3>
+<h1 align="center">👋 Hi, I'm <span style="font-weight:700;">Shyamsundar Gitte</span></h1>
+
+<p align="center">
+  <em>
+    AI & Machine Learning Enthusiast • Cloud Learner • Backend Developer
+  </em>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shyamsundar-gitte">
-    <img src="https://img.shields.io/badge/LinkedIn-Shyamsundar%20Gitte-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:shyamsundargitte92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shyamsundargitte92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<hr/>
 
 ## 🚀 About Me  
 
-I’m a **Computer Science student** with a strong interest in **Artificial Intelligence, Machine Learning, and Cloud-based systems**.  
-I enjoy building **end-to-end solutions** — from data processing and model training to API development and deployment.
+I’m a **Computer Science student** with a deep interest in **Artificial Intelligence, Machine Learning, and Cloud-based systems**.  
+I enjoy building **end-to-end solutions** — from understanding data and training models to designing APIs and deploying applications.
 
-I’m particularly motivated by projects where **AI solves real-world problems**, especially in **environmental sustainability and smart city applications**.
+I’m especially motivated by projects where **AI solves real-world problems**, particularly in **environmental sustainability** and **smart city technologies**.
 
 ---
 
@@ -61,12 +66,10 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 ### 🌊 Acoustic Reef — AI Monitoring System  
 **AI-powered coral reef health assessment using underwater acoustics**
 
-- Built a **machine learning pipeline** to classify reef health from audio recordings  
+- Built a **machine learning pipeline** to classify reef health from acoustic recordings  
 - Implemented **real-time acoustic analysis and visualization**  
 - Developed inference APIs using **FastAPI**  
 - Deployed scalable services on **Google Cloud Run**
-
-**Tech:** Python, TensorFlow, FastAPI, Google Cloud Platform  
 
 ---
 
@@ -78,8 +81,6 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 - Showcased AI metrics such as **reef health status and biophony score**  
 - Focused on **accessibility, storytelling, and awareness**
 
-**Tech:** HTML, CSS, JavaScript, TensorFlow, SurfPerch, UMAP, Random Forest  
-
 ---
 
 ### 🚦 AI-Based Smart Traffic Signal System  
@@ -90,8 +91,6 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 - Applied **ML models** to optimize signal timing  
 - Visualized traffic trends using dashboards
 
-**Tech:** Python, OpenCV, Scikit-learn, Pandas, Matplotlib, Streamlit  
-
 ---
 
 ## 🎯 Current Focus  
@@ -99,16 +98,7 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 - Strengthening **Machine Learning & Deep Learning** foundations  
 - Building **scalable AI systems** using cloud platforms  
 - Improving backend architecture and real-time processing  
-- Learning through hands-on, project-based development  
-
----
-
-## 🤝 Open To  
-
-- Internships & entry-level roles in **AI / ML / Software Development**  
-- Open-source collaboration  
-- Hackathons and innovation challenges  
-- Mentorship and continuous learning  
+- Learning through hands-on, project-driven development  
 
 ---
 
@@ -118,10 +108,8 @@ I’m particularly motivated by projects where **AI solves real-world problems**
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyamsundar-eng&theme=default
 )
 
-
-
----
+<hr/>
 
 <p align="center">
-✨ Learning • Building • Improving ✨
+  <em>Learning continuously • Building thoughtfully • Improving every day</em>
 </p>
