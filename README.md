@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hi, I'm <span style="font-weight:700;">Shyamsundar Gitte</span></h1>
+<h1 align="center">👋 Hi, I'm Shyamsundar Gitte</h1>
 
 <p align="center">
-  <em>
-    AI & Machine Learning Enthusiast • Cloud Learner • Backend Developer
-  </em>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=600&color=2563EB&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Enthusiast;Cloud+Learner+%7C+Backend+Developer;Building+Real-World+AI+Solutions" />
 </p>
 
 <p align="center">
@@ -19,10 +17,10 @@
 
 ## 🚀 About Me  
 
-I’m a **Computer Science student** with a deep interest in **Artificial Intelligence, Machine Learning, and Cloud-based systems**.  
-I enjoy building **end-to-end solutions** — from understanding data and training models to designing APIs and deploying applications.
+I’m a **Computer Science student** focused on **Artificial Intelligence, Machine Learning, and Cloud Computing**.  
+I enjoy building **end-to-end systems** — from data preprocessing and model training to backend APIs and cloud deployment.
 
-I’m especially motivated by projects where **AI solves real-world problems**, particularly in **environmental sustainability** and **smart city technologies**.
+I’m particularly interested in **AI for real-world impact**, especially in **environmental sustainability** and **smart city applications**.
 
 ---
 
@@ -31,8 +29,8 @@ I’m especially motivated by projects where **AI solves real-world problems**, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
 
@@ -64,41 +62,41 @@ I’m especially motivated by projects where **AI solves real-world problems**, 
 ## 🌟 Featured Projects  
 
 ### 🌊 Acoustic Reef — AI Monitoring System  
-**AI-powered coral reef health assessment using underwater acoustics**
-
-- Built a **machine learning pipeline** to classify reef health from acoustic recordings  
-- Implemented **real-time acoustic analysis and visualization**  
-- Developed inference APIs using **FastAPI**  
-- Deployed scalable services on **Google Cloud Run**
+- ML-based coral reef health classification from acoustic data  
+- Real-time analysis & visualization  
+- FastAPI backend deployed on Google Cloud Run  
 
 ---
 
 ### 🌍 Acoustic Reef — Awareness Platform  
-**Educational web platform for coral reef conservation and bioacoustics**
-
-- Designed a **multi-page interactive website** explaining reef ecosystems  
-- Integrated **healthy vs degraded reef audio samples**  
-- Showcased AI metrics such as **reef health status and biophony score**  
-- Focused on **accessibility, storytelling, and awareness**
+- Educational web platform explaining reef ecosystems via sound  
+- Interactive healthy vs degraded reef audio samples  
+- Focused on accessibility & conservation awareness  
 
 ---
 
 ### 🚦 AI-Based Smart Traffic Signal System  
-**Adaptive traffic control system using computer vision and ML**
-
-- Designed a **dynamic traffic signal controller** based on vehicle density  
-- Implemented **vehicle detection and counting** via simulation and video input  
-- Applied **ML models** to optimize signal timing  
-- Visualized traffic trends using dashboards
+- Adaptive traffic signal timing using vehicle density  
+- Computer vision–based detection and ML-driven optimization  
+- Traffic flow visualization dashboards  
 
 ---
 
 ## 🎯 Current Focus  
 
-- Strengthening **Machine Learning & Deep Learning** foundations  
-- Building **scalable AI systems** using cloud platforms  
-- Improving backend architecture and real-time processing  
-- Learning through hands-on, project-driven development  
+- Deepening **Machine Learning & Deep Learning** skills  
+- Building **cloud-native AI systems**  
+- Improving backend design and real-time inference  
+- Learning through hands-on projects  
+
+---
+
+## 🤝 Open To  
+
+- 💼 Internships & entry-level roles (AI / ML / Software Development)  
+- 🌱 Open-source collaboration  
+- 🚀 Hackathons & innovation challenges  
+- 🧠 Mentorship and continuous learning  
 
 ---
 
