@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shyamsundar-gitte">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shyamsundargitte92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
