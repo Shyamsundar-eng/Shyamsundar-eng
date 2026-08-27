@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shyamsundar Gitte</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=600&color=2563EB&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Enthusiast;Cloud+Learner+%7C+Backend+Developer;Building+Real-World+AI+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=600&color=2563EB&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Enthusiast;Cloud+Learner+%7C+Backend+Developer;Building+Real-World+AI+Solutions" />
 </p>
 
 <p align="center">
